@@ -1,12 +1,11 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /Teaching/
+title: Teaching
+description: Materials for courses I've contributed to.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Currently not filled. Plan to work on further after/during Spring Break [March 16-23, 2025].
 
-Organize your courses by years, topics, or universities, however you like!

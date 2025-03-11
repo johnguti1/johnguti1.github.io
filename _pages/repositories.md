@@ -1,11 +1,20 @@
 ---
 layout: page
-permalink: /repositories/
-title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+permalink: /Repositories/
+title: Repositories
+description: Collection of personal repositories
 nav: true
 nav_order: 4
 ---
+
+
+<!--
+Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+-->
+
+
+
+<!--
 
 {% if site.data.repositories.github_users %}
 
@@ -34,6 +43,10 @@ nav_order: 4
 {% endfor %}
 {% endif %}
 {% endif %}
+
+-->
+
+
 
 {% if site.data.repositories.github_repos %}
 
